@@ -1,0 +1,21 @@
+{
+  "name": "golddigger-app",
+  "version": "1.0.0",
+  "description": "Widget to keep users informed of the current market prices of gold and allow them to buy any desired amounts of gold",
+  "homepage": "https://github.com/SyndicusRB/golddigger-app#readme",
+  "bugs": {
+    "url": "https://github.com/SyndicusRB/golddigger-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyndicusRB/golddigger-app.git"
+  },
+  "license": "ISC",
+  "author": "SyndicusRB",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  }
+}
